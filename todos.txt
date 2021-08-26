@@ -6,4 +6,5 @@
 - Agustin Sochi
 - David
 - daniel choi
+- Bruno silva
 
